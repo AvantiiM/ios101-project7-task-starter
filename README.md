@@ -1,34 +1,32 @@
-# Project 7 - *Name of App Here*
+# Project 7 - *Tasks To-Do List*
 
-Submitted by: **Your Name Here**
+Submitted by: **Avanti Manjunath**
 
 **Name of your app** is an app that ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App displays a list of tasks
-- [ ] Users can add tasks to the list
-- [ ] Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
-  - [ ] Note: You have to quit the app, not minimize it, in order to see the persistence.
-- [ ] Tasks can be deleted
-- [ ] Users have a calendar view via navigation controller that displays tasks	
+- [x] App displays a list of tasks
+- [x] Users can add tasks to the list
+- [x] Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
+  - [x] Note: You have to quit the app, not minimize it, in order to see the persistence.
+- [x] Tasks can be deleted
+- [x] Users have a calendar view via navigation controller that displays tasks	
 
 
 The following **additional** features are implemented:
 
-- [ ] Tasks can be toggled completed
-- [ ] User can edit tasks by tapping on the task in the feed view
+- [x] Tasks can be toggled completed
+- [x] User can edit tasks by tapping on the task in the feed view
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<img src='https://github.com/AvantiiM/ios101-project7-task-starter/blob/main/TaskProject.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
@@ -36,7 +34,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Avanti Manjunath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
